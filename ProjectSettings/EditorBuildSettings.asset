@@ -6,7 +6,52 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
+    path: Assets/Scenes/Clase01/SampleScene_ObjetosSimples.unity
+    guid: 8b62bc3e67f6426845ce2a3d6b2fca29
+  - enabled: 1
+    path: Assets/Scenes/Clase03/Actividad02_Scene1_FisicasBasicas.unity
+    guid: ca97bdbb548cf88479f3f430b949a45d
+  - enabled: 1
+    path: Assets/Scenes/Practicas/Plinko.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/Clase03/Actividad01_PrimeraPractica_Transform.unity
+    guid: affc2b354ab9cff468405ea40fa03914
+  - enabled: 1
+    path: Assets/Scenes/Practicas/Nave.unity
+    guid: 427f933c96b051143b34958ac8b2192f
+  - enabled: 1
+    path: Assets/Scenes/Clase04/Actividad1_MovimientoFlechas.unity
+    guid: b4a9ed93ebdd69842b1666359495f22c
+  - enabled: 1
+    path: Assets/Scenes/Clase04/Actividad2_MovimientoWASD.unity
+    guid: e78600ca0b0540c45b22786d297469fb
+  - enabled: 1
+    path: Assets/Scenes/Clase04/Reto_PlayerReactivo.unity
+    guid: 550bfbde3c999af4bb3d57325975ec71
+  - enabled: 1
+    path: Assets/Scenes/Clase05/Escena01_Transform.unity
+    guid: 3c87d19f6789de04b8c035817a125db9
+  - enabled: 1
+    path: Assets/Scenes/Clase05/Escena02_AddForce.unity
+    guid: 1d54c889d596bae439d81cf19a4461b9
+  - enabled: 1
+    path: Assets/Scenes/Clase05/Escena03_LinearVelocity.unity
+    guid: 2db594551e343ed42ac1fedd64e08c33
+  - enabled: 1
+    path: Assets/Scenes/Clase05/Reto_Final_Equilibrio.unity
+    guid: 03a9d46fd61943846a66472cebdb34c1
+  - enabled: 1
+    path: Assets/Scenes/Clase06/Ejercicio1_PruebaAcciones.unity
+    guid: 8ea2e247e9dc1694ea2865a359f2f07d
+  - enabled: 1
+    path: Assets/Scenes/Clase06/Escena01_InputMovement.unity
+    guid: 45de91f15991f074d8ffbe245819a857
+  - enabled: 1
+    path: Assets/Scenes/Clase06/Escena02_InputPhysics.unity
+    guid: 5cfef2d0189b7e14385d9852c3ffb179
+  - enabled: 1
+    path: Assets/Scenes/Clase06/Reto_Input_Equilibrio.unity
+    guid: 1af1b9137b01737458b1651a2eacf3ec
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
